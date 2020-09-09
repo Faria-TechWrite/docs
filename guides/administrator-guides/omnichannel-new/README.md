@@ -6,6 +6,7 @@ Omnichannel is the part of Rocket.Chat where Rocket.Chat integrates with several
 
 
 
+{% page-ref page="Livechat Widget/" %}
 
 
 * link to Livechat section \(partially missing docs\)
